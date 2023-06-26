@@ -1,0 +1,8 @@
+tqdm
+jieba
+pandas
+scikit-learn
+wandb
+transformers
+gensim==4.2.0
+scikit-opt==0.6.6
