@@ -1,5 +1,5 @@
 # Directory structure
-- diagnose
+- diagnoise
   - code
     - github
   - data
@@ -21,6 +21,6 @@ torch 1.11.0
 
 ## Run
 
-parser.py : HOME_DIR = '/home/***/diagnose/'
+parser.py : HOME_DIR = '/home/***/diagnoise/'
 
 nohup python main.py > DILH-mimic-longformer.out &
